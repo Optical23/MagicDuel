@@ -1,0 +1,2 @@
+# MagicDuel
+Customizing spell duels
